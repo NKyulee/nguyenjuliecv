@@ -8,7 +8,7 @@ export default class Timeline extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">highlights</span>
+                <span className="heading-meta">Expériences</span>
                 <h2 className="colorlib-heading animate-box">Timeline</h2>
               </div>
             </div>
@@ -21,8 +21,16 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Stage : Developpeur Web Junior Full-Stack <span>Nov 2019 - Fév 2020</span></h2>
+                        <h4>AmagumoLabs (HCMC, Vietnam)</h4>
+                        <p>
+                          <ul>
+                            <li>Création de Mockup design utilisant Balsamiq</li>
+                            <li>Développement du Front-End - React.Js</li>
+                            <li>Développement du Back-End : REST API - Node.JS (Express), Mongodb</li>
+                            <li>MERN Stack</li>
+                          </ul>
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +40,16 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Assistante Chef de Produit Web <span>Oct 2018 - Avr 2019</span></h2>
+                        <h4>Jardiland Siège (Joinville-Le-Pont)</h4>
+                        <p>
+                          <ul>
+                            <li>Mise en conformités des fiches produits web</li>
+                            <li>Gestion des prix, promotion et mise en avant des produits web</li>
+                            <li>Encadrement d'une petite équipe en création de fiches produits</li>
+                            <li>Travail sur le CMS Magento et enrichissement de la base de donnée PIM AKENEO</li>
+                          </ul>
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +59,36 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Chargée E-Commerce et Communication <span>Déc 2016 - Sept 2017</span></h2>
+                        <h4>Ozabi.fr (La Courneuve)</h4>
+                        <p>
+                          <ul>
+                            <li>Suivi de la refonte du site internet</li>
+                            <li>Gestion du service client sur le site et les Marketplaces (Amazon, Cdiscount, Priceminister)</li>
+                            <li>Picking et préparation des commandes à l'envoi</li>
+                            <li>Gestion du site internet (Mise en ligne des produits, promotions)</li>
+                            <li>Shooting des produits et retouches des photos</li>
+                          </ul>
+                        </p> 
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Stage BTS : Chargée d'Accueil<span> Nov 2014 - Mar 2016</span></h2>
+                        <h4>Société Générale - Agence La Varenne St Hilaire (St Maur des Fossées)</h4>
+                        <p>
+                          <ul>
+                            <li>Gestion de l'accueil des clients</li>
+                            <li>Tâches administratives bancaires quotidiennes</li>
+                            <li>Vente de produit et de services bancaires</li>
+                            <li>Projet BTS (Booster les ventes d'assurance automobiles)</li>
+                            </ul>
+                        </p> 
                       </div>
                     </div>
                   </article>
