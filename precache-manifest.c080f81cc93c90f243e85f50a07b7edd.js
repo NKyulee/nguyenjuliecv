@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/nguyenjuliecv/static/css/main.8e859488.chunk.css"
   },
   {
-    "revision": "dc85344c595c6cdcafca95436d961309",
+    "revision": "40e2868c37fdac62f4e9f1f6df7b712c",
     "url": "/nguyenjuliecv/index.html"
   }
 ];
