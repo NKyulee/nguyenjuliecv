@@ -19,11 +19,11 @@ export default class Projects extends Component {
 										<div className="con">
 											<h3><a href="https://nkyulee.github.io/pokedex/">Pokedex</a></h3>
 											<span>https://nkyulee.github.io/pokedex/</span>
-										</div>
-										<p className="icon">
+											<p className="icon">
 											<b>Projet personnel</b><br />
 											Ce projet a pour but de travailler sur l'API Rest.
 											</p>
+										</div>
 									</div>
 								</div>
 							</div>
