@@ -72,6 +72,19 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-6 text-center animate-box">
+                <div className="services color-3">
+                <span className="icon">
+                <i className="icon-clipboard" />
+                </span>
+                <div className="desc">
+                    <h3>Diplômes</h3>
+                    <p><i className="icon-check" /> Licence Professionnelle : E-Commerce & Marketing numerique <br/>
+                    <i className="icon-check" /> BTS Management des Unités commerciales<br />
+                    <i className="icon-check" /> BAC Sciences de la Technologie et de la Gestion option Gestion Finance</p>
+                </div>
+                </div>
+            </div>
+            <div className="col-md-6 text-center animate-box">
                 <div className="services color-2">
                 <span className="icon">
                     <i className="icon-heart3" />
