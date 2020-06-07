@@ -17,21 +17,23 @@ export default class Sidebar extends Component {
                 <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">Qui suis-je ?</a></li>
-                  {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
-                  <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
+                  <li><a href="#" data-nav-section="projects"> Mes Projets</a></li>
+                  {/* <li><a href="#" data-nav-section="blog">Blog</a></li> */}
                   <li><a href="#timeline" data-nav-section="timeline">Expériences</a></li>
-                  <li><a>Mes Projets</a></li>
                 </ul>
               </div>
             </nav>
             <nav id="colorlib-main-menu">
+              <ul>
+                <li><a href="https://github.com/NKyulee" target="_blank" rel="noopener noreferrer"><i className="icon-github" /></a></li>
+              </ul>
               <ul>
                 <li><a href="https://www.linkedin.com/in/julie-nguyen-883a69107/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i> 
+                  Made with <i className="icon-heart" aria-hidden="true" />
               </small></p>
             </div>
           </aside>
