@@ -247,10 +247,10 @@ figure {
       position: relative;
       overflow: visible; }
       #colorlib-hero .flexslider .slides li {
-        background-repeat: no-repeat;
+        /* background-repeat: no-repeat; */
         background-size: cover;
-        background-position: bottom center;
-        min-height: 400px;
+        /* background-position: bottom center; */
+        min-height: 330px;
         position: relative; }
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 20px;
@@ -275,7 +275,7 @@ figure {
           #colorlib-hero .flexslider .flex-control-nav li a.flex-active {
             cursor: pointer;
             background: transparent;
-            border: 2px solid #2c98f0; }
+            border: 2px solid #000000; }
     #colorlib-hero .flexslider .flex-direction-nav {
       display: none; }
     #colorlib-hero .flexslider .slider-text {
@@ -285,10 +285,11 @@ figure {
       z-index: 9; }
       #colorlib-hero .flexslider .slider-text > .slider-text-inner {
         display: table-cell;
-        vertical-align: middle;
+        vertical-align: bottom;
         min-height: 700px;
         padding: 2.5em;
-        /* padding-left: 85rem; */
+        text-align-last: right;
+        /* padding-left: 90rem; */
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
@@ -297,7 +298,7 @@ figure {
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: white;
+          color: black;
           font-family: "Playfair Display", Georgia, serif; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
           margin-bottom: 20px;
