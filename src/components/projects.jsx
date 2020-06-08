@@ -21,7 +21,7 @@ export default class Projects extends Component {
 											<span>https://nkyulee.github.io/pokedex/</span>
 											<p className="icon">
 											<b>Projet personnel</b><br />
-											Ce projet a pour but de travailler sur l'API Rest.
+											Ce projet a pour but de travailler sur l'API Rest de Pokemon.
 											</p>
 										</div>
 									</div>
@@ -41,22 +41,21 @@ export default class Projects extends Component {
 									</div>
 								</div>
 							</div>
-							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
-								<div className="project" style={{backgroundImage: 'url(images/img-3.jpg)'}}>
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInTop">
+								<div className="project" style={{backgroundImage: 'url(images/pablo.png)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3><a href="work.html">Work 03</a></h3>
-											<span>Illustration</span>
+											<h3><a href="https://github.com/NKyulee">Projet avenir</a></h3>
+											<span>https://github.com/NKyulee</span>
 											<p className="icon">
-												<span><a href="#"><i className="icon-share3" /></a></span>
-												<span><a href="#"><i className="icon-eye" /> 100</a></span>
-												<span><a href="#"><i className="icon-heart" /> 49</a></span>
+												<span><h3>BookME :</h3> Site sous Symfony de réservation de livre en s'appuyant de l'API Google Books.</span>
+												<span><h3>BestWay :</h3> Site trouvant le chemin le plus court d'un point A à B (Algorythme).</span>
 											</p>
 										</div>
 									</div>
 								</div>
 							</div>
-							<div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
+							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
 									<div className="desc">
 										<div className="con">

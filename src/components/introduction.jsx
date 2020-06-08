@@ -14,15 +14,15 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>Hello ! <br />Je suis Julie </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Télécharger mon CV<i className="icon-download4" /></a></p>
+                          <h1>Hello ! <br />Je suis Julie Nguyen</h1>
+                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer"style={{color: 'rgba(44, 152, 240, 0.8)'}}><b>Télécharger mon CV  </b><i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img_bg.jpeg)'}}>
+              <li style={{backgroundImage: 'url(images/img_bg1.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>Me contacter par mail</h1>
-                          <p><a className="btn btn-primary btn-learn" href="yunguyen@gmail.com" target="_blank" rel="noopener noreferrer">iconEmail<i className="icon-briefcase3" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="yunguyen@gmail.com" target="_blank" rel="noopener noreferrer"style={{color: 'rgba(44, 152, 240, 0.8)'}}><b>yunguyen94@gmail.com  </b><i className="icon-envelop" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -45,7 +45,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>Mon profil Linkedin</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://www.linkedin.com/in/julie-nguyen-883a69107/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://www.linkedin.com/in/julie-nguyen-883a69107/" target="_blank" rel="noopener noreferrer" style={{color: 'rgba(44, 152, 240, 0.8)'}}><b>NGUYEN Julie  </b><i className="icon-linkedin2" /></a></p>
                         </div>
                       </div>
                     </div>
