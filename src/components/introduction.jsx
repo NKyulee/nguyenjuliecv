@@ -29,7 +29,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>Me contacter par mail</h1>
+                          <h1 style={{color: 'white'}}>Me contacter par mail</h1>
                           <p><a className="btn btn-primary btn-learn" href="mailto:yunguyen@gmail.com" target="_blank" rel="noopener noreferrer"style={{color: 'rgba(44, 152, 240, 0.8)'}}><b>yunguyen94@gmail.com  </b><i className="icon-envelop" /></a></p>
                         </div>
                       </div>
