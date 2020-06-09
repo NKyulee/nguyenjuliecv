@@ -15,7 +15,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Hello ! <br />Je suis Julie Nguyen</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer"style={{color: 'rgba(44, 152, 240, 0.8)'}}><b>Télécharger mon CV  </b><i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/11Kzay7yudOwHRe6RC7WzM9lMYc_E7IiU/view?usp=sharing" target="_blank" rel="noopener noreferrer"style={{color: 'rgba(44, 152, 240, 0.8)'}}><b>Télécharger mon CV  </b><i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>Me contacter par mail</h1>
-                          <p><a className="btn btn-primary btn-learn" href="yunguyen@gmail.com" target="_blank" rel="noopener noreferrer"style={{color: 'rgba(44, 152, 240, 0.8)'}}><b>yunguyen94@gmail.com  </b><i className="icon-envelop" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="mailto:yunguyen@gmail.com" target="_blank" rel="noopener noreferrer"style={{color: 'rgba(44, 152, 240, 0.8)'}}><b>yunguyen94@gmail.com  </b><i className="icon-envelop" /></a></p>
                         </div>
                       </div>
                     </div>
