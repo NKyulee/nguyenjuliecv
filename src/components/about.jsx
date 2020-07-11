@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">A propos de Julie</span>
                     <h2 className="colorlib-heading">Qui suis-je ?</h2>
-                    <p>Jeune reconvertie du milieu de l'E-commerce. En Juin 2019, j'ai décider de me reconvertir dans la programmation, grâce au bootcamp à la Coding Academy by EPITECH.<br />
+                    <p>Jeune reconvertie du milieu de l'E-commerce. En Juin 2019, j'ai décidé de me reconvertir dans la programmation, grâce au bootcamp de la Coding Academy by EPITECH.<br />
                     Cette transition s'est conclu avec un stage a l'étranger au Vietnam en tant que developpeuse Full Stack.</p>
                     <p><b>Actuellement, je recherche un emploi dans le Developpement web (préference : Stack MERN, Javascript, PHP) en Ile-de-France.</b></p>
                     <p>Grâce au tir à l'arc, j'estime que la compétition pour moi est un moteur fort pour se developper et se surpasser !
